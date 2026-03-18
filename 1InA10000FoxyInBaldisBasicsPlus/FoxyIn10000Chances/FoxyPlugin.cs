@@ -13,10 +13,10 @@ using UnityEngine.UI;
 namespace FoxyIn10000Chances
 {
 	// Token: 0x02000004 RID: 4
-	[BepInPlugin("alexbw145.baldiplus.foxyjumpscare", "The 1 in 10000 Foxy Jumpscare Mod", "1.0.1")]
-	[BepInDependency("mtm101.rulerp.bbplus.baldidevapi", "10.0.0.0")]
+	[BepInPlugin("alexbw145.baldiplus.foxyjumpscare", "The 1 in 10000 Foxy Jumpscare Mod", "1.0.2")]
+	[BepInDependency("mtm101.rulerp.bbplus.baldidevapi", "11.0.0.0")]
 	[BepInProcess("BALDI.exe")]
-	//[BepInProcess("Baldi's Basics Plus Prerelease.exe")] - mod might not work correctly in 0.14 pre-release
+	[BepInProcess("Baldi's Basics Plus Prerelease.exe")]
 	public class FoxyPlugin : BaseUnityPlugin
 	{
 		// Token: 0x06000003 RID: 3 RVA: 0x00002068 File Offset: 0x00000268

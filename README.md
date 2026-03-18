@@ -1,4 +1,4 @@
- The 1 in a 10000 Chance for Foxy Jumpscare mod, now ported to BB+ 0.13.X and API 10.X!
+ The 1 in a 10000 Chance for Foxy Jumpscare mod, now ported to BB+ 0.14.x and API 11.0!
 
  # Credits
  * AlexBW145 - Original mod creator

@@ -56,7 +56,7 @@ Debug.Log("Enjoy!");
 		private const string PLUGIN_NAME = "The 1 in 10000 Foxy Jumpscare Mod";
 
 		// Token: 0x04000004 RID: 4
-		private const string PLUGIN_VERSION = "1.0.1";
+		private const string PLUGIN_VERSION = "1.0.2";
 
 		// Token: 0x04000005 RID: 5
 		internal static ConfigEntry<int> JumpscareChance;
